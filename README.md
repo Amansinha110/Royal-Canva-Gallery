@@ -1,6 +1,9 @@
 <h1>Canva Design Image Upload Website</h1>
 <p>My name is Aman Kumar, and I am passionately committed to developing a website that allows users to upload, manage, and showcase Canva design images. In today's fast-paced digital world, creativity plays a crucial role, and platforms like Canva have revolutionized the way individuals and businesses create stunning visuals. However, the need for a dedicated space to store, share, and organize these designs efficiently has never been greater. Recognizing this gap, I have embarked on an ambitious journey to build a seamless and user-friendly website that caters to designers, marketers, and creative enthusiasts alike.</p>
-<h1>Password is royal 123 </h1>
+<img src = "https://github.com/Amansinha110/Royal-Canva-Gallery/blob/master/Screenshot%202025-06-02%20040759.png">
+<a href = "https://amansinha110.github.io/Royal-Canva-Gallery/"><img src = "https://github.com/Amansinha110/Royal-Canva-Gallery/blob/master/OIP.jpeg"> </a>
+<h3>Password is royal 123 </h3>
+<h1>Click Blue Button For Open Site</h1>
 <h2>The Purpose of My Website</h2>
 <p>The primary goal of this platform is to provide users with an efficient and aesthetically pleasing interface where they can upload their Canva-generated designs. Whether it's marketing posters, social media graphics, presentations, or custom templates, users will have a secure space to store and manage their work. With simplicity at its core, this website will ensure that users can easily navigate, upload, and retrieve their files whenever needed.</p>
 <h3>Technology Stack: Bringing Innovation to Life</h3>
